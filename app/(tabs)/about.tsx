@@ -9,7 +9,7 @@ export default function AboutScreen() {
       <ScrollView style={styles.scrollView} showsVerticalScrollIndicator={false}>
         <View style={styles.header}>
           <Ionicons name="checkmark-circle" size={60} color="#007AFF" />
-          <Text style={styles.headerTitle}>Task Management App</Text>
+          <Text style={styles.headerTitle}>TaskFlow</Text>
           <Text style={styles.headerSubtitle}>Simple. Efficient. Organized.</Text>
         </View>
 
